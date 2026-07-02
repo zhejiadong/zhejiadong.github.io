@@ -367,6 +367,7 @@
       renderEducationList('[data-education-list]', data.home?.education || []);
       renderNewsList('[data-news-list]', data.home?.news || []);
       renderNewsList('[data-awards-list]', data.home?.awards || []);
+      renderNewsList('[data-service-list]', data.home?.service || []);
     }
     if (page === 'research') {
       await renderMarkdownFile('[data-research-overview]', data.research?.overviewMarkdownPath, data.research?.overview || []);

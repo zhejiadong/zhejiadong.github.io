@@ -44,7 +44,7 @@ window.PRESENTATIONS_DATA = {
       year: '2025',
       month: 'June.',
       label: 'Invited talk at ICSA applied statistics symposium 2025',
-      location: 'Sotrrs, CT',
+      location: 'Storrs, CT',
       title: 'Disentangling Network Dependence among Multiple Variables. [slides](https://www.dropbox.com/scl/fi/7536dl6q8bzj9dtal42b3/ZD_ICSA.pdf?rlkey=9jqz0zmxoapy47jkxz58ks31y&dl=0)'
     },
      {
