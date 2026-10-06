@@ -1,1 +1,1 @@
-keywords: causal inference, observational studies, network dependence, matching methods, randomization inference, instrumental variables.
+keywords: causal inference, observational studies, network dependence, matching methods, randomization inference.

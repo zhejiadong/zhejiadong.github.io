@@ -66,8 +66,7 @@ window.PRESENTATIONS_DATA = {
       month: 'April.',
       label: 'Poster presented at Public Health Research Day 2023',
       location: 'Providence, RI',
-      year: '2024',
-      title: 'Measuring Bias Amplification in a Linear Model When Instrumental Variables are Related to Measured Confounding. [poster](https://www.dropbox.com/scl/fi/1h8l7j5n9y2m0s9v6q4e7/PHRD2023_ZhejiaDong.pdf?rlkey=1g5b8c2h0zqj8l6k1t3u9a4w6&dl=0)',
+      title: 'Measuring Bias Amplification in a Linear Model When Instrumental Variables are Related to Measured Confounding.',
     },
     {
       year: '2022',

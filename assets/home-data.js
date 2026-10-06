@@ -3,13 +3,14 @@ window.HOME_DATA = {
 
   education: [
     'Ph.D. in Biostatistics, Brown University (2023–present)',
-    'M.S. in Biostatistics, Brown University (2021–2023). Advisor: Dr. [Youjin Lee](http://www.youjinleeylee.com/)',
-    'B.S. in Mathematics and Applied Mathematics, Xi\'an Jiaotong University (2017–2021).  Advisor: Dr. [Liya Fu](https://www.xjtu.edu.cn/jsnr.jsp?urltype=tree.TreeTempUrl&wbtreeid=1632&wbwbxjtuteacherid=2485)'
+    'M.S. in Biostatistics, Brown University (2021–2023)',
+    'B.S. in Mathematics and Applied Mathematics, Xi\'an Jiaotong University (2017–2021)'
   ],
 
   news: [
+    'October 2026. Our paper, “[Network-Constrained Matching and Randomization-Based Inference for Causal Effects](https://arxiv.org/abs/2610.04102),” is now available on arXiv.',
     'July 2026. I began serving as a reviewer for the *Journal of the Royal Statistical Society: Series A*.',
-    'June 2026. New R package alert: available on [GitHub](https://github.com/zhejiadong/netmatchRI) for matching-based randomization inference with network-dependent data. The manuscript will be available on arXiv soon.',
+    'June 2026. New R package alert: available on [GitHub](https://github.com/zhejiadong/netmatchRI) for matching-based randomization inference with network-dependent data.',
     'May 2026. I received the [NESS Student Poster Award](https://nestat.org/posterawards/) for my poster presentation on “Design and Analysis for valid causal inference with network-dependent data.”',
     'May 2026. I presented a poster and gave an invited talk at NESS 2026',
     'May 2026. I presented a poster at SCI-ACIC 2026',
