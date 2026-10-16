@@ -8,6 +8,7 @@ window.HOME_DATA = {
   ],
 
   news: [
+    'October 2026. My R package [netmatchRI](https://CRAN.R-project.org/package=netmatchRI) is now available on CRAN for network-constrained matching and randomization-based inference.',
     'October 2026. Our paper, “[Network-Constrained Matching and Randomization-Based Inference for Causal Effects](https://arxiv.org/abs/2610.04102),” is now available on arXiv.',
     'July 2026. I began serving as a reviewer for the *Journal of the Royal Statistical Society: Series A*.',
     'June 2026. New R package alert: available on [GitHub](https://github.com/zhejiadong/netmatchRI) for matching-based randomization inference with network-dependent data.',
